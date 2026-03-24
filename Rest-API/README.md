@@ -90,6 +90,30 @@ Replace `/yourEndpoint` with the actual api defined in the code(in controller cl
 
 ------------------------------------------------------------------------
 
+## 📸 API Screenshots
+
+### Add Students
+
+![Add Students](../Add%20Students.png)
+
+### Delete Students
+
+![Delete Students](../Delete%20Students.png)
+
+### Get All Students
+
+![Get all students](../Get%20all%20students.png)
+
+### Get Students by ID
+
+![Get Students by id](../Get%20Students%20by%20id.png)
+
+### Update Students
+
+![Update Students](../Update%20Students.png)
+
+------------------------------------------------------------------------
+
 ## 🎯 Why This is Useful
 
 This project is perfect for beginners to understand backend development
